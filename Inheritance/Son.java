@@ -10,7 +10,7 @@ public class Son extends Father {
     }
 
     public void Money() {
-        System.out.println("Money:1cr");
+        System.out.println("Money:1crs");
     }
 
     public void Home() {

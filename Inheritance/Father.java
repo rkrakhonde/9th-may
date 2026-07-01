@@ -1,5 +1,5 @@
 package Inheritance;
-//super/parent/base class
+//super/parent/base class      //singlelevelinheritance
 public class Father {
     public void car() {
         System.out.println("car.kia Seltos");
